@@ -6,5 +6,5 @@ app.get('/', function(req, res) {
 	res.render('pages/index');
 });
 
-app.listen(6969);
-console.log('6969 is the magic port');
+//app.listen(6969);
+//console.log('6969 is the magic port');
