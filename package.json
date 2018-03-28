@@ -9,5 +9,10 @@
   "dependencies": {
     "ejs": "^2.5.6",
     "express": "^4.15.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxsilv/betterdaysweekly"
+  },
+  "license": "MIT"
 }
